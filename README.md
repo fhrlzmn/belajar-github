@@ -1,2 +1,2 @@
-# belajar-java
-Belajar Java
+# belajar-github
+Belajar Github
